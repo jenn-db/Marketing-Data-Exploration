@@ -5,10 +5,11 @@
  * [SQL script](https://github.com/jenn-db/Marketing-Dashboard/blob/main/SQL_Script.sql)
 
 ## Python Skills
-**Pandas used for:**
+**In this notebook, I showcased the following pandas skills**
 - Reading csv, excel
 - Indexing
 - Filtering and ordering columns
+- Group by and aggregate functions
 
 * [Link of notebook]()
 
