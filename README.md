@@ -5,7 +5,7 @@
  * [SQL script](https://github.com/jenn-db/Marketing-Dashboard/blob/main/SQL_Script.sql)
 
 ## Python Skills
-Pandas used for:
+**Pandas used for:**
 - Reading csv, excel
 - Indexing
 - Filtering and ordering columns
